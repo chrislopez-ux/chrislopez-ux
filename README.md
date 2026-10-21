@@ -6,7 +6,7 @@ I like to design and build projects that interest me.
 
 My main tech stack is currently C, C++, and Python.
 
-I'm currently learning about databases and OpenGL.
+I'm currently learning about SQL and OpenGL.
 
 **Projects I plan to build:** \
 Algorithm Visualizer using Raylib \
@@ -19,7 +19,7 @@ Galaxy Classifier using Pytorch
 
 **Some Fun Facts:** \
 I like Astronomy and Physics a lot \
-I'm Diamond Rank in Valorant \
+I'm Diamond Rank in Valorant and FaceIT Level 7 on CS2 \
 I don't like coffee \
 I like anime
 
